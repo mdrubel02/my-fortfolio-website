@@ -34,8 +34,15 @@
     border-radius: 5px;
 
 }
-
-
+  /* About section start  */
+.About-section{
+    margin-top: 120px;
+}
+.section-title{
+    font-size: 35px;
+    color: #d80f19;
+    font-family: 'Bebas Neue', cursive;
+}
 .cv-btnn a{
     background-color: #d80f19;
     font-size: 25px;
@@ -52,14 +59,61 @@
 .section-title{
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
+    color: #d80f19;
     
 }
+.progress .bar-items{
+    background-color: #d80f19;
+}
+/* last works  */
+.last-works{
+    margin-top: 100px;
+}
+.last-works-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    color: #d80f19;
+    padding: 15px 0px;
+}
+.last-work a{
+    text-decoration: none;
 
+}
+
+
+
+
+/* what i do you  */
+.what-i-do-title{
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+}
+.what-i-do{
+    margin: 100px;
+}
+.what-i-do-items{
+   text-align: center;
+}
+.what-i-do-items span{
+    font-size: 40px;
+    color: #d80f19;
+}
+.what-i-do-items h3{
+    font-size: 35px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    
+}
 /* hire me  */
+.hire-me-section .hire-me{
+    background:#d80f19;
+    border-radius: 10px;
+}
 .hire-me-section {
     margin-top: 3rem;
 	height: 251px;
-	background:#d80f19;
+	
 }
 .hire-info{
    display: flex;
@@ -86,11 +140,11 @@
 /* contact section  */
 
 .contact-section{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .testimonials-section{
-    margin-top: 50px;
+    margin-top: 120px;
 }
 .testimonials-items span i{
     font-size: 30px;
